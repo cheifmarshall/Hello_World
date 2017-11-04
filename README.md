@@ -10,7 +10,7 @@
     <ol>
     	<li>The Legend of Zelda, The Wind Waker</li>
     </ol>
-    <img src="http://zelda.com/windwaker/img/download/wp-1-1920x1080.jpg"/>
+    <img src="http://zelda.com/windwaker/img/download/wp-1-1920x1080.jpg" style="width:500px;height:250px;"/>
   
   
   
